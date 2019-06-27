@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+*.db
+*__pycache__
+*migrations
+*env
+*.log*
+*.log
+package-lock.json
